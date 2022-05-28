@@ -4,7 +4,7 @@
   "description": "Simple web API for cities",
   "main": "index.js",
   "scripts": {
-    "start": "json-server data/data.json"
+    "start": "json-server data/data.json --port $PORT --host 0.0.0.0"
   },
   "author": "Dmitry Weiner",
   "license": "ISC",
