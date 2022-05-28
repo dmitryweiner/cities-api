@@ -1,0 +1,14 @@
+{
+  "name": "cities-api",
+  "version": "0.0.1",
+  "description": "Simple web API for cities",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server data/data.json"
+  },
+  "author": "Dmitry Weiner",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
