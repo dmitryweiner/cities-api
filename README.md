@@ -1,11 +1,11 @@
 # Демонстрационное API для поиска информации по городам
-Сделано с использованием [json-server](https://raw.githubusercontent.com/typicode/json-server).
+Сделано с использованием [json-server](https://github.com/typicode/json-server).
 
 ## Роуты
-* [/cities-russia](https://cities-web-api.herokuapp.com/cities-russia)
-* [/cities-with-population](https://cities-web-api.herokuapp.com/cities-with-population)
-* [/cities-world](https://cities-web-api.herokuapp.com/cities-world)
-* [/towns-russia](https://cities-web-api.herokuapp.com/towns-russia)
+* [/cities-russia](https://cities-web-api.herokuapp.com/cities-russia?q=новосибирск&_limit=10)
+* [/cities-with-population](https://cities-web-api.herokuapp.com/cities-with-population?q=novosibirsk&_limit=10)
+* [/cities-world](https://cities-web-api.herokuapp.com/cities-world?q=novosibirsk&_limit=10)
+* [/towns-russia](https://cities-web-api.herokuapp.com/towns-russia?q=новосибирск&_limit=10)
 
 ## Формат запроса (взято [отсюда](https://github.com/typicode/json-server#paginate))
 ### Filter
