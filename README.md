@@ -3,7 +3,7 @@
 
 ## Роуты
 * [/cities-russia](https://cities-web-api.herokuapp.com/cities-russia?q=новосибирск&_limit=10)
-* [/cities-with-population](https://cities-web-api.herokuapp.com/cities-with-population?q=novosibirsk&_limit=10)
+* [/cities-with-population](https://cities-web-api.herokuapp.com/cities-with-population?q=new&_limit=10)
 * [/cities-world](https://cities-web-api.herokuapp.com/cities-world?q=novosibirsk&_limit=10)
 * [/towns-russia](https://cities-web-api.herokuapp.com/towns-russia?q=новосибирск&_limit=10)
 
